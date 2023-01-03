@@ -1,8 +1,8 @@
 {
   "development": {
-    "username": "postgress_1",
-    "password": "6BBbCa47FZVXTGl6whVPhjQzRIszpiG8",
-    "database": "shaikrehantodo1",
+    "username": "postgres",
+    "password": "Vineeth123",
+    "database": "wd-todo-dev",
     "host": "127.0.0.1",
     "dialect": "postgres"
   },
